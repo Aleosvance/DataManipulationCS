@@ -1,0 +1,10 @@
+c:\users\greg\documents\visual studio 2013\Projects\DataManipulationCS\DataManipulationCS\bin\Debug\DataManipulationCS.exe.config
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\DataManipulationCS\DataManipulationCS\bin\Debug\DataManipulationCS.exe
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\DataManipulationCS\DataManipulationCS\bin\Debug\DataManipulationCS.pdb
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\DataManipulationCS\DataManipulationCS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\DataManipulationCS\DataManipulationCS\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\DataManipulationCS\DataManipulationCS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\DataManipulationCS\DataManipulationCS\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\DataManipulationCS\DataManipulationCS\obj\Debug\DataManipulationCS.csprojResolveAssemblyReference.cache
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\DataManipulationCS\DataManipulationCS\obj\Debug\DataManipulationCS.exe
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\DataManipulationCS\DataManipulationCS\obj\Debug\DataManipulationCS.pdb
